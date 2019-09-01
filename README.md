@@ -6,6 +6,8 @@ AT-M128_Baseball-game
 - AT-M128
 - C
 
+![screenshot1](./1.png)
+
 ### 사용법
 처음 시작을 하면 숫자 3개를 랜덤으로 저장합니다.
 LCD에는 GameStart라는 안내 문구를 적어주며, 도트 메트릭스는 응원 그림을 띄워줍니다.
